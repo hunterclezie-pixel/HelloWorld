@@ -1,4 +1,10 @@
-﻿namespace HelloWorld
+﻿/*Hunter Clezie 
+ 2265 
+ 4th Semester 
+ HelloWorld 
+ https://github.com/hunterclezie-pixel/HelloWorld.git */
+
+namespace HelloWorld
 {
     internal class Program
     {
